@@ -65,8 +65,8 @@ email: "fadillahadam11@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello. I am an AI engineern intern at [Neurabot](https://neurabot.io/en) working on microscopic image analysis using Deep Learning. Currently, my main research interest is the application of Computer Vision and Deep Learning in medical imaging area.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I received my BSc degree in Physics Engineering from Institut Teknologi Bandung (ITB) with Honours. During my last year on the university, I worked on Self-Driving Cars research, especially on Control Systems and State Estimation. I was a member of the [ICoDeS](https://ik.fti.itb.ac.id/lab-icodes/) Laboratory under [Prof. Yul Y. Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en) supervision.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I will be pursuing a MSc degree in Computer Vision at the [MBZUAI](https://mbzuai.ac.ae/) starting from Fall 2021, Insya Allah.
