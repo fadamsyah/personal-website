@@ -29,4 +29,6 @@ abstract: The combination of the Inertial Measurement Unit (IMU) and Global Navi
 
 url_pdf: 'https://ieeexplore.ieee.org/document/8993992'
 
+tags: [Deep Learning, Neural Networks, Autonomous Car, Autonomous Vehicle, Localization, State Estimation, Kalman Filter]
+
 ---
