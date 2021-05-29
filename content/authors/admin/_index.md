@@ -14,7 +14,7 @@ organizations:
   url: https://neurabot.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and deep learning matter.
+bio: My research interests include computer vision and deep learning matter, especially on the area of medical imaging and autonomous vehicles.
 
 # Interests to show in About widget
 interests:
