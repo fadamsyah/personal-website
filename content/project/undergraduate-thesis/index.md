@@ -2,7 +2,7 @@
 title: Implementation of Longitudinal and Lateral Control on Autonomous Vehicle
 summary: Undergraduate thesis.
 tags:
-- Autonomous Vehicles
+- Autonomous Vehicle
 date: ""
 
 links:

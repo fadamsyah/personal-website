@@ -2,7 +2,7 @@
 title: Optimization of Longitudinal Control of Autonomous Vehicles
 summary: Research.
 tags:
-- Autonomous Vehicles
+- Autonomous Vehicle
 date_start: '2020-06-01'
 date_end: '2020-10-30'
 date: ""

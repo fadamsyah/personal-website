@@ -2,7 +2,7 @@
 title: Localization Method for Autonomous Car Using Virtual Sensing System
 summary: Research.
 tags:
-- Autonomous Vehicles
+- Autonomous Vehicle
 date: ""
 date_start: '2019-08-01'
 date_end: '2019-11-30'
