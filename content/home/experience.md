@@ -38,6 +38,9 @@ experience:
         * Delivering reports and documentations
         * Create a [repository](https://github.com/fadamsyah/pytorch_deseg_module) for future use
 
+        <b>Tools &emsp; &nbsp;&nbsp; :</b> Python<br>
+        <b>Libraries &nbsp; :</b> Pytorch, Pytorch Lightning, Albumentations, OpenCV, Pillow, Segmentation Models Pytorch<br>
+
   - title: Undergraduate Research Assistant
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Laboratory
     company_url: 'https://ik.fti.itb.ac.id/lab-icodes/'
@@ -46,35 +49,16 @@ experience:
     date_start: '2019-08-01'
     date_end: '2020-10-31'
     description: |2-
-        <b>Supervisors&#58;</b> [Prof. Yul Yunazwin Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en) & [Augie Widyotriatmo, Ph.D.](https://scholar.google.co.id/citations?user=MtHwNU4AAAAJ&hl=id)<br>Worked with [Prasetyo W. L. Sanjaya](https://www.linkedin.com/in/prasetyowls/) on the topic of implementation of longitudinal and lateral control systems for autonomous golf cart as a capstone project. We were greatly helped by Udiana Bambang, M.Eng on hardware installations. Responsibilities include:
+        <b>References : </b> [Prof. Yul Yunazwin Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en) & [Augie Widyotriatmo, Ph.D.](https://scholar.google.co.id/citations?user=MtHwNU4AAAAJ&hl=id)<br>I was an undergraduate member of the [ICoDeS](https://ik.fti.itb.ac.id/lab-icodes/) in the last year of my undergraduate university. Projects and research that I participated in are listed below:
 
-        * Designing a drive-by-wire system on a golf cart
-        * Designing a longitudinal and lateral control [module](https://github.com/fadamsyah/vehicle_control/blob/master/src/Python/stanley_2d.py) using Python
-        * Designing a 2D state estimation [module](https://github.com/fadamsyah/vehicle_control/blob/master/src/Python/ekf_2d_imu.py) incorporating accelerometer, gyroscope, GNSS, and vehicle nonholonomic constraint using the Extended Kalman Filter algorithm
-        * Implementing a control system consisting of path following and speed controller for an autonomous golf cart
+        1. [Implementation of Longitudinal and Lateral Control on Autonomous Vehicle](project/undergraduate-thesis/)
+        2. [Optimization of Longitudinal Control of Autonomous Vehicles](project/longitudinal-control-optimization/)
+        3. [Localization Method for Autonomous Car Using Virtual Sensing System](project/localization-method-for-autonomous-car-using-virtual-sensing-system/)
 
-        <b>Tools &emsp; &nbsp;&nbsp; :</b> Python, Arduino, ROS, CARLA Simulator<br>
-        <b>Libraries &nbsp; :</b> Numba, Numpy, Matplotlib, Pandas<br>
+        <b>Tools &emsp; &nbsp;&nbsp; :</b> Python, Arduino, ROS, CARLA Simulator, LaTeX<br>
+        <b>Libraries &nbsp; :</b> Numba, Numpy, Matplotlib, Pandas, Keras, Tensorflow<br>
         <b>Sensors &nbsp;&nbsp; :</b> IMU, GNSS, Absolute encoder, Linear transducer<br>
         <b>Actuators :</b> Nema 34, Brushed DC motor
-
-
-  - title: Undergraduate Research Student
-    company: Instrumentation, Control, and Decision Systems (ICoDeS) Laboratory
-    company_url: 'https://ik.fti.itb.ac.id/lab-icodes/'
-    company_logo: 
-    location: Bandung, Indonesia
-    date_start: '2019-08-01'
-    date_end: '2019-11-30'
-    description: |2-
-        <b>Supervisors&#58;</b> [Prof. Yul Yunazwin Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en)<br>Worked with five of my friends on conducting research in utilizing neural networks to improve vehicle state estimation. Responsibilities include:
-
-        * Designing a sensor fusion module incorporation data from accelerometer, gyroscope, GNSS, and neural networks using the Error-State Kalman Filter algorithm
-        * Designing a recurrent neural networks model
-        * Publishing a [conference paper](publication/localization-method-for-autonomous-car-using-virtual-sensing-system/) 
-
-        <b>Tools &emsp; &nbsp;&nbsp; :</b> Python, CARLA Simulator<br>
-        <b>Libraries &nbsp; :</b> Keras, Tensorflow, Numpy, Matplotlib, Pandas<br>
 
   - title: Teaching Assistant
     company: Institut Teknologi Bandung
