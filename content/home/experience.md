@@ -38,7 +38,7 @@ experience:
         * Delivering reports and documentations
         * Create a [repository](https://github.com/fadamsyah/pytorch_deseg_module) for future use
 
-  - title: Research Assistant
+  - title: Undergraduate Research Assistant
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Laboratory
     company_url: 'https://ik.fti.itb.ac.id/lab-icodes/'
     company_logo: 
@@ -59,6 +59,23 @@ experience:
         <b>Actuators :</b> Nema 34, Brushed DC motor
 
 
+  - title: Undergraduate Research Student
+    company: Instrumentation, Control, and Decision Systems (ICoDeS) Laboratory
+    company_url: 'https://ik.fti.itb.ac.id/lab-icodes/'
+    company_logo: 
+    location: Bandung, Indonesia
+    date_start: '2019-08-01'
+    date_end: '2019-11-30'
+    description: |2-
+        <b>Supervisors&#58;</b> [Prof. Yul Yunazwin Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en)<br>Worked with five of my friends on conducting research in utilizing neural networks to improve vehicle state estimation. Responsibilities include:
+
+        * Designing a sensor fusion module incorporation data from accelerometer, gyroscope, GNSS, and neural networks using the Error-State Kalman Filter algorithm
+        * Designing a recurrent neural networks model
+        * Publishing a [conference paper](publication/localization-method-for-autonomous-car-using-virtual-sensing-system/) 
+
+        <b>Tools &emsp; &nbsp;&nbsp; :</b> Python, CARLA Simulator<br>
+        <b>Libraries &nbsp; :</b> Keras, Tensorflow, Numpy, Matplotlib, Pandas<br>
+
   - title: Teaching Assistant
     company: Institut Teknologi Bandung
     company_url: ''
@@ -74,7 +91,7 @@ experience:
         * Circuits & Electronics (Aug - Dec 2018)
         * Engineering Drawing (Aug - Dec 2017)
 
-        <b>Tools &emsp; &nbsp;&nbsp; :</b> LaTeX, Solidworks, LTspice
+        <b>Tools :</b> LaTeX, Solidworks, LTspice
 
   - title: Internship
     company: Toyota Motor Manufacturing Indonesia
