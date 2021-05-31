@@ -7,24 +7,38 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+
+  - name: Experience
     weight: 20
+    identifier: 'experience'
+  - name: Work and research
+    url: '#experience_work_research'
+    weight: 21
+    parent: 'experience'
+  - name: Teaching
+    url: '#experience_teaching'
+    weight: 22
+    parent: 'experience'
+
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: Publications
+    url: '#publications'
+    weight: 40
+
+  - name: CV
+    url: uploads/cv.pdf
+    weight: 50
+
+  # Siapa tau nanti kepake
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 
