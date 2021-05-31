@@ -48,6 +48,51 @@ item:
   title: 'Object-Oriented Programming in R'
   url: ""
 
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  description: A certification of basic mechanical design skills using Solidworks held by Dassault Systemes.
+  organization: Dassault Systemes
+  organization_url: 
+  title: Certified SOLIDWORKS Associate
+  url: 
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  description: A competition of innovative technologies using IoT concepts held by Telkom University.
+  organization: Telkom University
+  organization_url: 
+  title: Finalist - IoT Competition
+  url: 
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  description: A competition of calculus quizzes held by Universitas Negeri Jakarta.
+  organization: Universitas Negeri Jakarta
+  organization_url: 
+  title: 3rd Place - Calculus Cup 2018
+  url: 
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  description: A merit-based full scholarship held by The Indonesian Ministry of Education and Culture starting from the 3rd semester until the end of my undergraduate study.
+  organization: The Indonesian Ministry of Education and Culture
+  organization_url: 
+  title: Awardee - "Beasiswa Unggulan" Scholarship
+  url: 
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-01-01"
+  description: A competition of calculus quizzes held by Universitas Negeri Jakarta.
+  organization: Universitas Negeri Jakarta
+  organization_url: 
+  title: Semi-finalist - Calculus Cup 2017
+  url: 
+
 design:
   columns: '2' 
 ---
