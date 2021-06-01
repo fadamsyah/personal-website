@@ -20,6 +20,10 @@ main:
     weight: 22
     parent: 'experience'
 
+  - name: Achievements
+    url: '#achievements'
+    weight: 27
+
   - name: Projects
     url: '#projects'
     weight: 30
