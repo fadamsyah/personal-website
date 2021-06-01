@@ -32,6 +32,10 @@ main:
     url: '#publications'
     weight: 40
 
+  - name: Contact
+    url: '#contact'
+    weight: 45
+
   - name: CV
     url: https://drive.google.com/file/d/1_cLCcJ0gy_y6V9iPC8RACf5IYLDISoVj/view?usp=sharing
     weight: 50
@@ -43,6 +47,3 @@ main:
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 
