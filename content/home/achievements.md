@@ -51,8 +51,8 @@ item:
 - certificate_url: https://drive.google.com/file/d/1SRY6R_FF45KTDbZP0ocTUGYJ7gKBXFPd/view?usp=sharing
   date_end: "2018-04-13"
   date_start: "2018-04-13"
-  description: A certification of basic mechanical design skills using Solidworks held by Dassault Systemes.
-  organization: Dassault Systemes
+  description: A certification of basic mechanical design skills using Solidworks held by Dassault System&egrave;s.
+  organization: Dassault System&egrave;s
   organization_url: https://www.3ds.com/
   title: Certified SOLIDWORKS Associate
   url: https://www.solidworks.com/certifications/mechanical-design-cswa-mechanical-design
