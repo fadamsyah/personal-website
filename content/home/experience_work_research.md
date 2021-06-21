@@ -25,7 +25,7 @@ experience:
   - title: AI Engineer Intern
     company: Neura Integrasi Solusi
     company_url: 'https://neurabot.io/'
-    company_logo: 
+    company_logo: logo-neurabot
     location: Indonesia
     date_start: '2021-02-06'
     date_end: ''
@@ -44,7 +44,7 @@ experience:
   - title: Undergraduate Research Assistant
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Laboratory
     company_url: 'https://ik.fti.itb.ac.id/lab-icodes/'
-    company_logo: 
+    company_logo: logo-itb
     location: Bandung, Indonesia
     date_start: '2019-08-01'
     date_end: '2020-10-31'
@@ -63,7 +63,7 @@ experience:
   - title: Internship
     company: Toyota Motor Manufacturing Indonesia
     company_url: 'https://www.toyota.co.id/'
-    company_logo: 
+    company_logo: 'logo-tmmin'
     location: Jakarta, Indonesia
     date_start: '2019-06-16'
     date_end: '2019-08-16'

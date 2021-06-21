@@ -13,13 +13,13 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: Institut Teknologi Bandung
-    company_url: ''
-    company_logo: 
+    company_url: 'https://tf.itb.ac.id/en/'
+    company_logo: logo-itb
     location: Bandung, Indonesia
     date_start: '2017-08-01'
     date_end: '2021-01-31'
     description: |2-
-        Responsibilities include but not limited to delivering academic & hands-on tutorials, and examining assignments & quizzes. Courses:
+        Responsibilities include delivering academic & hands-on tutorials, and examining assignments & quizzes. Courses:
         
         * Engineering Drawing (Nov 2020 - Jan 2021)
         * Engineering Mathematics II (Jan - May 2019)
