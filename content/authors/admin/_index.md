@@ -69,4 +69,4 @@ Hello. I am an AI engineern intern at [Neurabot](https://neurabot.io/en) working
 
 I received my BSc degree in Physics Engineering from Institut Teknologi Bandung (ITB) with the Cum Laude predicate. During my last year on the university, I worked on Self-Driving Cars research, especially on Control Systems and State Estimation. I was a member of the [ICoDeS](https://ik.fti.itb.ac.id/lab-icodes/) Laboratory under [Prof. Yul Y. Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en) supervision.
 
-I will be pursuing a MSc degree in Computer Vision at the [MBZUAI](https://mbzuai.ac.ae/) starting from Fall 2021, Insya Allah.
+I will be pursuing a MSc degree in Computer Vision at the [MBZUAI](https://mbzuai.ac.ae/) starting from Fall 2021, Insya Allah. Feel free to reach me for collaborations or inquiries :).
