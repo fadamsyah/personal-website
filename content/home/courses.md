@@ -144,4 +144,39 @@ item:
   organization_url: https://www.coursera.org
   title: TensorFlow&#58; Advanced Techniques Specialization (UNCOMPLETE)
   url: https://www.coursera.org/specializations/tensorflow-advanced-techniques
+
+- certificate_url: https://coursera.org/share/0d512ff1bbe44f88f094ff34c11469f7
+  date_end: "2021-07-01"
+  date_start: "2021-06-25"
+  description: |2-
+    <ul style="list-style-type:none;">
+      <li><b>Course 1:</b> <a href="https://coursera.org/share/0a351a372bfe3ee1d6e76593abd747c7">Python Basics</a></li>
+      <li><b>Course 2:</b> <a href="https://coursera.org/share/335e149fb0eb20596e700c7b810b011b">Python Functions, Files, and Dictionaries</a></li>
+      <li><b>Course 3:</b> <a href="https://coursera.org/share/5935b92cd1b27bc041ad8d8b35a16f44">Data Collection and Processing with Python</a></li>
+      <li><b>Course 4:</b> <a href="https://coursera.org/share/10ffbcf26275cee9ab8e3977dce1d752">Python Classes and Inheritance</a></li>
+      <li><b>Course 5:</b> <a href="https://coursera.org/share/06c563973d08a8f48189cccfc6d9b142">Python Project: pillow, tesseract, and opencv</a></li>
+    </ul>
+
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Python 3 Programming Specialization
+  url: https://www.coursera.org/specializations/python-3-programming
+
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/0228df59f23bfaf3a7c84fb0503e9528f475d9bc
+  date_end: "2021-01-07"
+  date_start: "2020-12-01"
+  description: |2-
+    <ul style="list-style-type:none;">
+      <li><b>Course 1:</b> <a href="https://www.datacamp.com/statement-of-accomplishment/course/cdcb7df9d31d0f1a0cdec701b74a629b08bbdbb3">Supervised Learning with scikit-learn</a></li>
+      <li><b>Course 2:</b> <a href="https://www.datacamp.com/statement-of-accomplishment/course/6653221bd22e9fd4212c5401639aee5a73836bd6">Unsupervised Learning in Python</a></li>
+      <li><b>Course 3:</b> <a href="https://www.datacamp.com/statement-of-accomplishment/course/a799515726d4ec9c19aa43d8a9b044ef79642a1e">Linear Classifiers in Python</a></li>
+      <li><b>Course 4:</b> <a href="https://www.datacamp.com/statement-of-accomplishment/course/548221c52b2f7c81d9805dac127447fc42896529">Case Study: School Budgeting with Machine Learning in Python</a></li>
+      <li><b>Course 5:</b> <a href="https://www.datacamp.com/statement-of-accomplishment/course/6061d847d70406a24ab3bac5d9794c0f80e8e134">Introduction to Deep Learning in Python</a></li>
+    </ul>
+
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Machine Learning Fundamentals with Python Track
+  url: https://www.datacamp.com/tracks/machine-learning-fundamentals-with-python
+
 ---
