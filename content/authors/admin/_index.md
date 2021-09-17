@@ -6,7 +6,7 @@ title: Fadillah Adamsyah Ma'ani
 superuser: true
 
 # Role/position/tagline
-role: AI Engineer Intern
+role: AI Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
   url: https://neurabot.io/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer vision and deep learning matter, especially on the area of medical imaging and autonomous vehicles.
+bio: My research interests include computer vision and deep learning matter, especially on the area of medical imaging, machine vision, and autonomous vehicles.
 
 # Interests to show in About widget
 interests:
 - Computer Vision
 - Deep Learning
 - Medical Imaging
+- Machine Vision
 - Autonomous Vehicles
 
 # Education to show in About widget
@@ -56,7 +57,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: "https://drive.google.com/file/d/1_cLCcJ0gy_y6V9iPC8RACf5IYLDISoVj/view?usp=sharing"
+  link: "https://drive.google.com/file/d/1bGpBmoXHx90vCNmVadjozmWJA91_dFrh/view?usp=sharing"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "fadillahadam11@gmail.com"
@@ -67,6 +68,6 @@ highlight_name: true
 # I will be pursuing a MSc degree in Computer Vision at the [MBZUAI](https://mbzuai.ac.ae/) starting from Fall 2021, Insya Allah. Feel free to reach me for collaborations or inquiries :).
 ---
 
-Hello. I am an AI engineern intern at [Neurabot](https://neurabot.io/en) working on microscopic image analysis using Deep Learning. Currently, my main research interest is the application of Computer Vision and Deep Learning in medical imaging area.
+Hello. I am an AI engineer at [Neurabot](https://neurabot.io/en) working on microscopic image analysis using Deep Learning and Image Processing techniques. Currently, my main research interest is the application of Computer Vision and Deep Learning in medical imaging area.
 
 I received my BSc degree in Physics Engineering from Institut Teknologi Bandung (ITB) with the Cum Laude predicate. During my last year on the university, I worked on Self-Driving Cars research, especially on Control Systems and State Estimation. I was a member of the [ICoDeS](https://ik.fti.itb.ac.id/lab-icodes/) Laboratory under [Prof. Yul Y. Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en) supervision.
