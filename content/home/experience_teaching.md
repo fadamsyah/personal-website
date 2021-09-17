@@ -22,6 +22,7 @@ experience:
         Responsibilities include delivering academic & hands-on tutorials, and examining assignments & quizzes. Courses:
         
         * Engineering Drawing (Nov 2020 - Jan 2021)
+        * <b>[Unofficial]</b> Modern Control (Aug 2019 - Dec 2019)
         * Engineering Mathematics II (Jan - May 2019)
         * Circuits & Electronics (Aug - Dec 2018)
         * Engineering Drawing (Aug - Dec 2017)
