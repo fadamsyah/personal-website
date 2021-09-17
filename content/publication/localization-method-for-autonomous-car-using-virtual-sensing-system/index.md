@@ -11,11 +11,11 @@ authors:
 
 author_notes:
 - "Supervisor, Corresponding author"
-- "Equal contribution"
-- "Equal contribution"
-- "Presenter, Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
+- "Presenter"
+- ""
+- ""
 
 date: "2020-02-13T00:00:00Z"
 doi: "10.1109/ICEVT48285.2019.8993992"
