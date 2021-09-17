@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: AI Engineer Intern
+  - title: AI Engineer
     company: Neura Integrasi Solusi
     company_url: 'https://neurabot.io/'
     company_logo: logo-neurabot
@@ -30,16 +30,14 @@ experience:
     date_start: '2021-02-06'
     date_end: ''
     description: |2-
-        <b>Supervisor&#58;</b> [Dr. Thomhert Suprapto Siadari](https://www.linkedin.com/in/thomhertsiadari/)<br>Currently developing Deep Learning models to detect and segment objects on microscopic images. Responsibilites include:
+        <b>Supervisor&#58;</b> [Dr. Thomhert Suprapto Siadari](https://www.linkedin.com/in/thomhertsiadari/)<br>Currently working on several projects, i.e.:
 
-        * Data preprocessing
-        * Model training and evaluation
-        * Delivering model to Neurabot's platform team
-        * Delivering reports and documentations
-        * Create a [repository](https://github.com/fadamsyah/pytorch_deseg_module) for future use
+        1. Automatic Detection of Fasciola Eggs in Microscopic Images
+        2. Semi-Automatic Objects Segmentation in Fundus Images
+        3. Handy Tools for Computer Vision Projects
 
-        <b>Tools &emsp; &nbsp;&nbsp; :</b> Python<br>
-        <b>Libraries &nbsp; :</b> Pytorch, Pytorch Lightning, Albumentations, OpenCV, Pillow, Segmentation Models Pytorch<br>
+        <b>Tools &emsp; &nbsp;&nbsp; :</b> Python, Github, DVC<br>
+        <b>Libraries &nbsp; :</b> Pytorch, Pytorch Lightning, Albumentations, OpenCV, Pillow, Segmentation Models Pytorch, Streamlit<br>
 
   - title: Undergraduate Research Assistant
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Laboratory
