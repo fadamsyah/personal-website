@@ -162,6 +162,22 @@ item:
   title: Python 3 Programming Specialization
   url: https://www.coursera.org/specializations/python-3-programming
 
+- certificate_url: https://coursera.org/share/58085b8e0ffe46095e5b87fac82414a7
+  date_end: "2021-07-20"
+  date_start: "2021-07-01"
+  description: |2-
+    <ul style="list-style-type:none;">
+      <li><b>Course 1:</b> <a href="https://coursera.org/share/357a7d83da684819d2d8c8b4a0f0b0f0"></a>Natural Language Processing with Classification and Vector Spaces</li>
+      <li><b>Course 2:</b> <a href="https://coursera.org/share/bf7acb3fb64b92edf8b481546ec3d495"></a>Natural Language Processing with Probabilistic Models</li>
+      <li><b>Course 3:</b> <a href="https://coursera.org/share/29441a67845ca01900346489cbb31a6a"></a>Natural Language Processing with Sequence Models</li>
+      <li><b>Course 4:</b> <a href="https://coursera.org/share/de45b035fdd5ab4194fa73616674c0fe"></a>Natural Language Processing with Attention Models</li>
+    </ul>  
+
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Natural Language Processing Specialization
+  url: "https://www.coursera.org/specializations/natural-language-processing"
+
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/0228df59f23bfaf3a7c84fb0503e9528f475d9bc
   date_end: "2021-01-07"
   date_start: "2020-12-01"
