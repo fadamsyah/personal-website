@@ -167,10 +167,10 @@ item:
   date_start: "2021-07-01"
   description: |2-
     <ul style="list-style-type:none;">
-      <li><b>Course 1:</b> <a href="https://coursera.org/share/357a7d83da684819d2d8c8b4a0f0b0f0"></a>Natural Language Processing with Classification and Vector Spaces</li>
-      <li><b>Course 2:</b> <a href="https://coursera.org/share/bf7acb3fb64b92edf8b481546ec3d495"></a>Natural Language Processing with Probabilistic Models</li>
-      <li><b>Course 3:</b> <a href="https://coursera.org/share/29441a67845ca01900346489cbb31a6a"></a>Natural Language Processing with Sequence Models</li>
-      <li><b>Course 4:</b> <a href="https://coursera.org/share/de45b035fdd5ab4194fa73616674c0fe"></a>Natural Language Processing with Attention Models</li>
+      <li><b>Course 1:</b> <a href="https://coursera.org/share/357a7d83da684819d2d8c8b4a0f0b0f0">Natural Language Processing with Classification and Vector Spaces</a></li>
+      <li><b>Course 2:</b> <a href="https://coursera.org/share/bf7acb3fb64b92edf8b481546ec3d495">Natural Language Processing with Probabilistic Models</a></li>
+      <li><b>Course 3:</b> <a href="https://coursera.org/share/29441a67845ca01900346489cbb31a6a">Natural Language Processing with Sequence Models</a></li>
+      <li><b>Course 4:</b> <a href="https://coursera.org/share/de45b035fdd5ab4194fa73616674c0fe">Natural Language Processing with Attention Models</a></li>
     </ul>  
 
   organization: Coursera
